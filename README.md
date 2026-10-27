@@ -139,7 +139,7 @@ enforced on the server.
 ## Repository Structure
 
 ```text
-25070521124/
+25070521015/
 |-- client/                          React + Vite frontend
 |   |-- public/
 |   |   `-- favicon.svg              Branded SC favicon
